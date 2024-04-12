@@ -22,6 +22,11 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Ignore shortcut files
 *.lnk
+
+# Ignore Visual Studio user-specific files
 /.vs
+
+# Ignore the .gitignore file itself, as it's used to specify which files should be ignored
 /.gitignore
