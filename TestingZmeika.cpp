@@ -30,7 +30,7 @@ void Draw()
     for (int i = 0; i < width + 2; i++)
         cout << "|";
     cout << endl;
-
+    //for loop is used to draw the game
     for (int i = 0; i < height; i++)
     {
         for (int j = 0; j < width; j++)
