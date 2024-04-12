@@ -112,16 +112,16 @@ void algorithm()
     switch (dir)
     {
     case LEFT:
-        x--;
+        x--;//this switch case is used to move the snake
         break;
     case RIGHT:
-        x++;
+        x++;//this switch case is used to move the snake
         break;
     case UP:
-        y--;
+        y--;//this switch case is used to move the snake
         break;
     case DOWN:
-        y++;
+        y++;//this switch case is used to move the snake
         break;
     default:
         break;
