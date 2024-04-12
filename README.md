@@ -2,9 +2,7 @@
 
 	Snake Game in C++
 
-Welcome to the repository for the Snake Game, a classic arcade game reimagined in C++.
-This project is a fun and engaging way to explore the fundamentals of 
-game development, object-oriented programming, and the C++ language itself.
+Добро пожаловать в репозиторий the Snake Game, классической аркадной игры, переработанной на C++. Этот проект представляет собой увлекательный способ изучения основ разработки игр, объектно-ориентированного программирования и самого языка C++.
 
 	Overview
 The Snake Game is a simple yet addictive game where the player controls a snake that grows longer as it consumes food. 
