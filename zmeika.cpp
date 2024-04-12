@@ -26,45 +26,45 @@ void Setup()
 //this function is used to draw the game
 void Draw()
 {
-    system("cls");
+    system("cls");//cls is used to clear the screen
     for (int i = 0; i < width + 2; i++)
-        cout << "#";
-    cout << endl;
-
+        cout << "#";//# is used to print the game
+    cout << endl;//endl is used to move the cursor to the next line
+    //for loop is used to print the game
     for (int i = 0; i < height; i++)
     {
         for (int j = 0; j < width; j++)
         {
-            if (j == 0)
+            if (j == 0)//this if statement is used to print the game
                 cout << "#";
-            if (i == y && j == x)
+            if (i == y && j == x)//this if statement is used to print the game
                 cout << "@";     // head
-            else if (i == fruitY && j == fruitX)
+            else if (i == fruitY && j == fruitX)//this if statement is used to print the game
                 cout << "$";         // apple
             else
             {
-                bool print = false;
-                for (int k = 0; k < nTail; k++)
+                bool print = false;//this variable is used to print the game
+                for (int k = 0; k < nTail; k++)//for loop is used to print the game
                 {
-                    if (tailX[k] == j && tailY[k] == i)
+                    if (tailX[k] == j && tailY[k] == i)//this if statement is used to print the game
                     {
                         cout << "^"; print = true; // body
                     }
                 }
-                if (!print) cout << " ";
+                if (!print) cout << " ";//this if statement is used to print the game
 
             }
 
-            if (j == width - 1)
+            if (j == width - 1)//this if statement is used to print the game
                 cout << "#";
         }
         cout << endl;
     }
 
-    for (int i = 0; i < width + 2; i++)
-        cout << "#";
+    for (int i = 0; i < width + 2; i++)//this for loop is used to print the game
+        cout << "#";//# is used to print the game
     cout << endl;
-    cout << "Score:" << score << endl;
+    cout << "Score:" << score << endl;//this cout statement is used to print the game
 }
 //this function is used to take input from the user
 void Input()
