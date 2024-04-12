@@ -71,21 +71,21 @@ void Input()
 {
     if (_kbhit())
     {
-        switch (_getch())
+        switch (_getch())//this switch statement is used to take input from the user
         {
-        case 'a':
+        case 'a'://this case statement is used to take input from the user
             dir = LEFT;
             break;
-        case 'd':
+        case 'd'://this case statement is used to take input from the user
             dir = RIGHT;
             break;
-        case 'w':
+        case 'w'://this case statement is used to take input from the user
             dir = UP;
             break;
-        case 's':
+        case 's'://this case statement is used to take input from the user
             dir = DOWN;
             break;
-        case 'x':
+        case 'x'://this case statement is used to take input from the user
             gameOver = true;
             break;
         }
