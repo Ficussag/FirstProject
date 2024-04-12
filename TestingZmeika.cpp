@@ -3,12 +3,12 @@
 #include <windows.h>
 using namespace std;
 
-bool gameOver;
-int width = 200;
-int height = 200;
-int x, y, fruitX, fruitY, score;
-int tailX[1000], tailY[1000];
-int nTail;
+bool gameOver;//this function is used tofalse;
+int width = 200;//this function is used to draw the game
+int height = 200;// this function is used to draw the game
+int x, y, fruitX, fruitY, score;//this function is used to draw the game
+int tailX[1000], tailY[1000];//this function is used to draw the game
+int nTail;//this function is used to draw the game
 
 enum eDirecton { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirecton dir; set up the game
