@@ -26,7 +26,7 @@
 ваш вклад может помочь сделать игру еще лучше. Пожалуйста, ознакомьтесь с инструкциями по внесению вклада в этот файл CONTRIBUTING.md.
 
 	License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Этот проект лицензирован по лицензии MIT. Подробности смотрите в файле ЛИЦЕНЗИИ.
 
 	Acknowledgments
 The classic Snake Game concept, which has been a staple of arcade gaming for decades.
