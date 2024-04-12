@@ -151,6 +151,6 @@ int main()
         Draw();
         Input();
         algorithm();
-        Sleep(50); // Adding a delay to slow down the snake's movement
+        Sleep(100); // Adding a delay to slow down the snake's movement
     return 0;
 }
