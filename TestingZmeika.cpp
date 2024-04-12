@@ -28,7 +28,7 @@ void Draw()
 {
     system("cls");
     for (int i = 0; i < width + 2; i++)
-        cout << "#";
+        cout << "|";
     cout << endl;
 
     for (int i = 0; i < height; i++)
@@ -36,7 +36,7 @@ void Draw()
         for (int j = 0; j < width; j++)
         {
             if (j == 0)
-                cout << "#";
+                cout << "|";
             if (i == y && j == x)
                 cout << "@";     // head
             else if (i == fruitY && j == fruitX)
@@ -56,13 +56,13 @@ void Draw()
             }
 
             if (j == width - 1)
-                cout << "#";
+                cout << "|";
         }
         cout << endl;
     }
 
     for (int i = 0; i < width + 2; i++)
-        cout << "#";
+        cout << "|";
     cout << endl;
     cout << "Score:" << score << endl;
 }
