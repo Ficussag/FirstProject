@@ -108,7 +108,7 @@ void algorithm()
         prevX = prev2X;
         prevY = prev2Y;
     }
-
+    //this switch case is used to move the snake
     switch (dir)
     {
     case LEFT:
