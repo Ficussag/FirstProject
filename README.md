@@ -29,10 +29,10 @@
 Этот проект лицензирован по лицензии MIT. Подробности смотрите в файле ЛИЦЕНЗИИ.
 
 	Acknowledgments
-The classic Snake Game concept, which has been a staple of arcade gaming for decades.
-The C++ language and its object-oriented features, which provide a solid foundation for game development.
-The open-source community, which continues to inspire and support the development of new and exciting projects.
-Contact
-If you have any questions, suggestions, or feedback about the Snake Game, please feel free to open an issue or contact the repository owner.
+Классическая концепция игры Snake, которая на протяжении десятилетий была основой аркадных игр.
+Язык C++ и его объектно-ориентированные функции, которые обеспечивают прочную основу для разработки игр.
+Сообщество разработчиков с открытым исходным кодом, которое продолжает вдохновлять и поддерживать разработку новых интересных проектов.
+Контакт
+Если у вас есть какие-либо вопросы, предложения или отзывы об игре Snake, пожалуйста, не стесняйтесь открывать выпуск или обращаться к владельцу репозитория.
 
-Thank you for checking out the Snake Game project! Enjoy the game, and happy coding!
+Спасибо, что ознакомились с проектом Snake Game! Наслаждайтесь игрой и удачного написания кода!
