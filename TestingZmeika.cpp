@@ -145,14 +145,14 @@ void algorithm()
 }
 
 //pragrammin in start
-int main()
+int main()//this is used to draw the game
 {
-    Setup();
-    while (!gameOver)
+    Setup();//this is used to set up the game
+    while (!gameOver)//this is used to draw the game
     {
-        Draw();
-        Input();
-        algorithm();
+        Draw();//this is used to draw the game
+        Input();//this is used to take input from the user
+        algorithm();//this is used to move the snake
         Sleep(40); // Adding a delay to slow down the snake's movement
-        return 0;
+        return 0;//this is used to exit the game
     }
