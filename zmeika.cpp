@@ -37,7 +37,7 @@ void Draw()
             if (j == 0)
                 cout << "#";
             if (i == y && j == x)
-                cout << "0";     // head
+                cout << "O";     // head
             else if (i == fruitY && j == fruitX)
                 cout << "$";         // apple
             else
