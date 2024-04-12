@@ -37,9 +37,9 @@ void Draw()
             if (j == 0)
                 cout << "#";
             if (i == y && j == x)
-                cout << "8";     // голова
+                cout << "8";     // head
             else if (i == fruitY && j == fruitX)
-                cout << "r";         // яблоки 
+                cout << "r";         // body
             else
             {
                 bool print = false;
@@ -47,7 +47,7 @@ void Draw()
                 {
                     if (tailX[k] == j && tailY[k] == i)
                     {
-                        cout << "^"; print = true; // тело
+                        cout << "^"; print = true; // body
                     }
                 }
                 if (!print) cout << " ";
@@ -151,7 +151,6 @@ int main()
         Draw();
         Input();
         algorithm();
-        Sleep(50); // Добавляем задержку, чтобы замедлить движение змейки
-    }
+        Sleep(50); // Adding a delay to slow down the snake's movement
     return 0;
 }
