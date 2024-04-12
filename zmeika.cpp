@@ -73,7 +73,7 @@ void Input()
     {
         switch (_getch())//this switch statement is used to take input from the user
         {
-        case 'a' 'A' ://this case statement is used to take input from the user
+        case 'a' ://this case statement is used to take input from the user
             dir = LEFT;
             break;
         case 'd'://this case statement is used to take input from the user
