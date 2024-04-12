@@ -5,10 +5,7 @@
 Добро пожаловать в репозиторий the Snake Game, классической аркадной игры, переработанной на C++. Этот проект представляет собой увлекательный способ изучения основ разработки игр, объектно-ориентированного программирования и самого языка C++.
 
 	Overview
-The Snake Game is a simple yet addictive game where the player controls a snake that grows longer as it consumes food. 
-The objective is to navigate the snake through a grid, collecting food while avoiding collisions with 
-the snake's own body or the boundaries of the game area. 
-The game ends when the snake collides with itself or the game area's boundaries.
+Игра "Змейка" - это простая, но захватывающая игра, в которой игрок управляет змеей, которая становится длиннее по мере того, как поглощает пищу. Цель состоит в том, чтобы провести змейку по сетке, собирая пищу и избегая столкновений с собственным телом змеи или границами игровой зоны. Игра заканчивается, когда змея сталкивается сама с собой или с границами игровой зоны.
 
 	Features
 Classic Gameplay: Experience the thrill of navigating the snake through a grid, collecting food, and growing longer as you progress.
