@@ -78,7 +78,7 @@ void Input()
             break;
         case 'd':
             dir = RIGHT;
-            break;
+            break;//this switch case is used to move the snake
         case 'w':
             dir = UP;
             break;
