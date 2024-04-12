@@ -94,11 +94,11 @@ void Input()
 //this function is used to move the snake
 void algorithm()
 {
-    int prevX = tailX[0];
-    int prevY = tailY[0];
-    int prev2X, prev2Y;
-    tailX[0] = x;
-    tailY[0] = y;
+    int prevX = tailX[0];//this is used to move the snake
+    int prevY = tailY[0];//this is used to move the snake
+    int prev2X, prev2Y;//this is used to move the snake
+    tailX[0] = x;//this is used to move the snake
+    tailY[0] = y;//this is used to move the snake
     for (int i = 1; i < nTail; i++)
     {
         prev2X = tailX[i];
