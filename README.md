@@ -1,4 +1,13 @@
 # FirstProject
+
+									TRANSLATIONS
+				
+				English
+				Русский
+				
+		
+
+
 	Snake Game in C++
 
 Welcome to the repository for the Snake Game, a classic arcade game reimagined in C++.
