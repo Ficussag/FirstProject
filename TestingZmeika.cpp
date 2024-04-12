@@ -143,7 +143,7 @@ void algorithm()
         nTail++;
     }
 }
-//new function
+
 //pragrammin in start
 int main()
 {
