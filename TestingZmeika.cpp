@@ -24,7 +24,7 @@ void Setup()
     score = 0;
 }
 //this function is used to draw the game
-void Draw()
+void PictureDraw()
 {
     system("cls");
     for (int i = 0; i < width + 2; i++)
@@ -150,7 +150,7 @@ int main()//this is used to draw the game
     Setup();//this is used to set up the game
     while (!gameOver)//this is used to draw the game
     {
-        Draw();//this is used to draw the game
+        PictureDraw();//this is used to draw the game
         Input();//this is used to take input from the user
         algorithm();//this is used to move the snake
         Sleep(40); // Adding a delay to slow down the snake's movement
