@@ -1,5 +1,8 @@
+# Ignore Thumbs.db files, which are created by Windows to store thumbnail images for files
 Thumbs.db
 Thumbs.db:encryptable
+
+# Ignore ehthumbs.db and ehthumbs_vista.db files, which are also related to thumbnail images
 ehthumbs.db
 ehthumbs_vista.db
 
