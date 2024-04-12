@@ -8,14 +8,14 @@
 Игра "Змейка" - это простая, но захватывающая игра, в которой игрок управляет змеей, которая становится длиннее по мере того, как поглощает пищу. Цель состоит в том, чтобы провести змейку по сетке, собирая пищу и избегая столкновений с собственным телом змеи или границами игровой зоны. Игра заканчивается, когда змея сталкивается сама с собой или с границами игровой зоны.
 
 	Features
-Classic Gameplay: Experience the thrill of navigating the snake through a grid, collecting food, and growing longer as you progress.
-Object-Oriented Design: The game is designed with object-oriented principles in mind, making it a great example for 
-learning how to structure a game in C++.
-Customizable Game Area: The game area's dimensions are easily adjustable, allowing for different gameplay experiences.
-Score Tracking: Keep track of your score as you navigate the snake through the game area.
-Simple Controls: Use the keyboard to control the snake's direction.
-Getting Started
-To get started with the Snake Game, follow these steps:
+Классический игровой процесс: Испытайте острые ощущения, перемещая змейку по сетке, собирая еду и увеличивая ее длину по мере продвижения.
+Объектно-ориентированный дизайн: Игра разработана с учетом принципов объектно-ориентированного программирования, что делает ее отличным примером для
+изучения структуры игры на C++.
+Настраиваемая игровая зона: Размеры игровой зоны легко регулируются, что позволяет создавать различные варианты игрового процесса.
+Отслеживание результатов: Следите за своим счетом, перемещая змейку по игровой зоне.
+Простое управление: Используйте клавиатуру для управления направлением движения змейки.
+приступая к работе
+Чтобы начать играть в змейку, выполните следующие действия:
 
 Clone the Repository: Use Git to clone this repository to your local machine.
 Compile the Game: Compile the game using a C++ compiler. The game is designed to be compiled and run on Windows, but 
