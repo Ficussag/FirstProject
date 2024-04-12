@@ -17,13 +17,13 @@
 приступая к работе
 Чтобы начать играть в змейку, выполните следующие действия:
 
-Clone the Repository: Use Git to clone this repository to your local machine.
-Compile the Game: Compile the game using a C++ compiler. The game is designed to be compiled and run on Windows, but 
-with minor adjustments, it can be adapted for other platforms.
-Run the Game: Execute the compiled game. Use the arrow keys to control the snake and collect food.
-Contributing
-Contributions to the Snake Game are welcome! Whether it's bug fixes, performance improvements, or adding new features, 
-your contributions can help make the game even better. Please read the CONTRIBUTING.md file for guidelines on how to contribute.
+Клонируйте репозиторий: используйте Git, чтобы клонировать этот репозиторий на свой локальный компьютер.
+Скомпилируйте игру: Скомпилируйте игру с помощью компилятора C++. Игра предназначена для компиляции и запуска в Windows, но
+с небольшими изменениями ее можно адаптировать для других платформ.
+Запустите игру: Запустите скомпилированную игру. Используйте клавиши со стрелками, чтобы управлять змеей и собирать еду.
+Способствующий
+Мы приветствуем ваш вклад в развитие игры Snake! Будь то исправление ошибок, повышение производительности или добавление новых функций,
+ваш вклад может помочь сделать игру еще лучше. Пожалуйста, ознакомьтесь с инструкциями по внесению вклада в этот файл CONTRIBUTING.md.
 
 	License
 This project is licensed under the MIT License. See the LICENSE file for details.
