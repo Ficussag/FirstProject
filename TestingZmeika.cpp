@@ -4,8 +4,8 @@
 using namespace std;
 
 bool gameOver;
-const int width = 20;
-const int height = 20;
+const int width = 200;
+const int height = 200;
 int x, y, fruitX, fruitY, score;
 int tailX[1000], tailY[1000];
 int nTail;
