@@ -3,12 +3,12 @@
 #include <windows.h>
 using namespace std;
 
-bool gameOver;
-const int width = 20;
-const int height = 20;
-int x, y, fruitX, fruitY, score;
-int tailX[100], tailY[100];
-int nTail;
+bool gameOver;//this variable is used to check if the game is over
+const int width = 20;//width and height of the game
+const int height = 20;//width and height of the game
+int x, y, fruitX, fruitY, score;//x and y are the coordinates of the head of the snake
+int tailX[100], tailY[100];//tailX and tailY are the coordinates of the tail of the snake
+int nTail;//length of the tail
 
 enum eDirecton { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirecton dir;
