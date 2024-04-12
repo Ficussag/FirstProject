@@ -35,7 +35,7 @@ void Draw()
         for (int j = 0; j < width; j++)
         {
             if (j == 0)
-                cout << "#";      
+                cout << "#";
             if (i == y && j == x)
                 cout << "8";     // голова
             else if (i == fruitY && j == fruitX)
