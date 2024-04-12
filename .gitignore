@@ -6,8 +6,10 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
+# Ignore stack dump files, which are created when a program crashes
 *.stackdump
 
+# Ignore Desktop.ini files, which are used by Windows to store custom attributes of a folder
 [Dd]esktop.ini
 
 $RECYCLE.BIN/
