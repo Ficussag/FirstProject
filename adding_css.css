@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #222;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#game-board {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border: 2px solid #fff;
+    background-color: #000;
+}
+
+.snake-segment {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #0f0;
+}
+
+.snake-head {
+    background-color: #00f;
+}
+
+.apple {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #f00;
+}
