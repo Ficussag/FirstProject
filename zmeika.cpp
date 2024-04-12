@@ -9,6 +9,7 @@ const int height = 20;
 int x, y, fruitX, fruitY, score;
 int tailX[100], tailY[100];
 int nTail;
+
 enum eDirecton { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirecton dir;
 
