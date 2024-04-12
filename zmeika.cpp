@@ -12,7 +12,7 @@ int nTail;
 
 enum eDirecton { STOP = 0, LEFT, RIGHT, UP, DOWN };
 eDirecton dir;
-
+//this function is used to set up the game
 void Setup()
 {
     gameOver = false;
@@ -23,7 +23,7 @@ void Setup()
     fruitY = rand() % height;
     score = 0;
 }
-
+//this function is used to draw the game
 void Draw()
 {
     system("cls");
@@ -66,7 +66,7 @@ void Draw()
     cout << endl;
     cout << "Score:" << score << endl;
 }
-
+//this function is used to take input from the user
 void Input()
 {
     if (_kbhit())
@@ -91,7 +91,7 @@ void Input()
         }
     }
 }
-
+//this function is used to move the snake
 void algorithm()
 {
     int prevX = tailX[0];
@@ -143,7 +143,7 @@ void algorithm()
         nTail++;
     }
 }
-
+//pragrammin in start
 int main()
 {
     Setup();
