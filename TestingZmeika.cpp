@@ -4,18 +4,18 @@
 using namespace std;
 
 bool gameOver;
-const int width = 200;
-const int height = 200;
+int width = 200;
+int height = 200;
 int x, y, fruitX, fruitY, score;
 int tailX[1000], tailY[1000];
 int nTail;
 
 enum eDirecton { STOP = 0, LEFT, RIGHT, UP, DOWN };
-eDirecton dir;
-//this function is used to set up the game
+eDirecton dir; set up the game
 void Setup()
 {
-    gameOver = false;
+    gameOver = 
+//this function is used tofalse;
     dir = STOP;
     x = width / 2;
     y = height / 2;
