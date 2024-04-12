@@ -47,7 +47,7 @@ void Draw()
                 {
                     if (tailX[k] == j && tailY[k] == i)
                     {
-                        cout << "7"; print = true; // тело
+                        cout << "8"; print = true; // тело
                     }
                 }
                 if (!print) cout << " ";
