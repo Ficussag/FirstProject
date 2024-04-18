@@ -1,0 +1,108 @@
+git init
+git add .
+git init
+cd /c/Users/2pilo/OneDrive/Desktop/repoz
+ls
+git clone https://github.com/Ficussag/lab4.git
+git log
+git log
+git clone https://github.com/github/docs.git
+cd
+git rev-parse --show-toplevel
+move C:/Users/2pilo /c/Users/2pilo/OneDrive/Desktop/repozitori
+move C:\Users\2pilo /c/Users/2pilo/OneDrive/Desktop/repozitori
+cd/c/Users/2pilo/OneDrive/Desktop/repozitori
+cd /c/Users/2pilo/OneDrive/Desktop/repozitori
+cd
+git rev-parse --show-toplevel
+cd/c/Users/2pilo/OneDrive/Desktop/repozitori
+cd repository
+git status
+git add .
+git status 
+git push 
+git log
+cd /c/Users/2pilo/OneDrive/Desktop/repozitori
+git status
+cd /c/Users/2pilo/OneDrive/Desktop/repozitori
+git status
+git rev-parse --is-inside-work-tree
+git add .
+git status  
+git add .
+git status 
+git add <file>
+git add .
+git status 
+cd /c/Users/2pilo/OneDrive/Desktop/gittt\
+cd /c/Users/2pilo/OneDrive/Desktop/gittt
+git clone https://github.com/Ficussag/lab4.git
+git status 
+git add .
+git commit -m "Попытка отправки "
+cd /c/Users/2pilo/OneDrive/Desktop/gittt\
+git commit -amend 
+cd /c/Users/2pilo/OneDrive/Desktop/gittt
+rm -rf .
+cd /c/Users/2pilo/OneDrive/Desktop/repa
+git clone https://github.com/Ficussag/lab4.git
+cd lab4
+git log
+cd lab4
+cd /c/Users/2pilo/OneDrive/Desktop/repa
+cd /c/Users/2pilo/OneDrive/Desktop/repa/lab4
+git log
+cd /c/Users/2pilo/OneDrive/Desktop/repa/lab4
+git rebase -i HEAD~22
+git rebase --interactive 
+cd /c/Users/2pilo/OneDrive/Desktop/repa/lab4
+git status 
+git rebase -i HEAD~5
+cd /c/Users/2pilo/OneDrive/Desktop/hoho
+git clone https://github.com/Ficussag/lab4.git
+cd /c/Users/2pilo/OneDrive/Desktop/hoho/lab4
+git log --oneline
+cd /c/Users/2pilo/OneDrive/Desktop/hoho/lab4
+git rebase -i 072791f^
+git push origin <main> --force 
+git push origin main --force
+git log  --oneline 
+git rebase -i 48ae858
+git rebase -i 48ae858^
+cd /c/Users/2pilo/OneDrive/Desktop/hoho/lab4
+git log --oneline
+git rebase --abort
+git log --oneline
+cd /c/Users/2pilo/OneDrive/Desktop/hoho/lab4
+git rebase -i b972aa7
+git push origin main --force
+git status
+git rebase --abort
+git push origin main --force
+git rebase -i HEADё~40
+git rebase -i HEAD~40
+git rebase -i b972aa7^
+git rebase --counte
+git rebase counte 
+git push origin main --force 
+git rebase --abort
+git push origin main 
+cd /c/Users/2pilo/OneDrive/Desktop/allalala
+git clone https://github.com/Ficussag/lab4.git
+cd /c/Users/2pilo/OneDrive/Desktop/allalala/lab4
+git remote add upstream https://github.com/Ficussag/lab4.git
+git fetch upstream
+git mere upstream/main
+git rebase  -i 9369568^
+git rebase -i 9369568^
+git rebase abort
+cd /c/Users/2pilo/OneDrive/Desktop/allalala/lab4
+git remote add upstream https://github.com/Ficussag/lab4.git
+git rebase -i 9369568^
+git rebase --abort
+git rebase -i 9369568^
+git push origin main --force 
+cd /c/Users/2pilo/OneDrive/Desktop/labab
+git clone https://github.com/Ficussag/FirstProject.git
+cd /c/Users/2pilo/OneDrive/Desktop/labab/FirstProject
+git remote add origin https://github.com/Ficussag/FirstProject.git
